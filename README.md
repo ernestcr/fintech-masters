@@ -52,3 +52,9 @@ https://github.com/desicochrane/data-science-masters
 * [Essentials of Corporate Finance Specialization](https://www.coursera.org/specializations/learn-finance)
 * [Investment Management Specialization](https://www.coursera.org/specializations/investment-management)
 * [Financial Management Specialization](https://www.coursera.org/specializations/financial-management)
+
+
+
+## Resources
+
+* https://github.com/7kfpun/awesome-fintech
