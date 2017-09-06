@@ -36,8 +36,14 @@ https://github.com/desicochrane/data-science-masters
 #### Cryptocurrency and Bitcoin
 * [Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
 
+## Block 2
+
+#### Algorithmic Trading
+* [Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+* https://www.youtube.com/user/sentdex/playlists?view=50&sort=dd&shelf_id=21
 
 ## Block N
+
 
 * [Introduction to Finance: Valuation and Investing Specialization](https://www.coursera.org/specializations/valuation-investment)
 * [Investment and Portfolio Management Specialization](https://www.coursera.org/specializations/investment-portolio-management)
