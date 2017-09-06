@@ -43,3 +43,6 @@ https://github.com/desicochrane/data-science-masters
 * [Investment and Portfolio Management Specialization](https://www.coursera.org/specializations/investment-portolio-management)
 * [Finance for Everyone Specialization](https://www.coursera.org/specializations/finance-for-everyone)
 * [Financial Markets and Investment Strategy Specialization](https://www.coursera.org/specializations/investment-strategy)
+* [Essentials of Corporate Finance Specialization](https://www.coursera.org/specializations/learn-finance)
+* [Investment Management Specialization](https://www.coursera.org/specializations/investment-management)
+* [Financial Management Specialization](https://www.coursera.org/specializations/financial-management)
