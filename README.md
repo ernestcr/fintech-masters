@@ -41,6 +41,7 @@ https://github.com/desicochrane/data-science-masters
 #### Algorithmic Trading
 * [Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 * https://www.youtube.com/user/sentdex/playlists?view=50&sort=dd&shelf_id=21
+* https://www.quantopian.com/lectures
 
 ## Block N
 
