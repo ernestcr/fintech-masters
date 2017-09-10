@@ -30,8 +30,12 @@ https://github.com/desicochrane/data-science-masters
 ## Block 1
 
 #### Cryptography
+* [Khan Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
 * [Cryptography I](https://www.coursera.org/learn/crypto)
 * [Cryptography II](https://www.coursera.org/learn/crypto2)
+
+*Supplementary Resources*
+* https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy
 
 #### Cryptocurrency and Bitcoin
 * [Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
