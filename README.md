@@ -36,6 +36,7 @@ https://github.com/desicochrane/data-science-masters
 
 *Supplementary Resources*
 * https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy
+* https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos
 
 #### Cryptocurrency and Bitcoin
 * [Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
