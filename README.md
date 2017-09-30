@@ -38,6 +38,7 @@ https://github.com/desicochrane/data-science-masters
 * https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy
 * https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos
 * https://www.youtube.com/playlist?list=PL1xkDS1G9As7E_fPaLaFchq1a27I9a5tO
+* https://www.udacity.com/course/applied-cryptography--cs387
 
 #### Cryptocurrency and Bitcoin
 * [Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
