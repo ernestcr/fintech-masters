@@ -18,21 +18,22 @@ https://github.com/desicochrane/data-science-masters
 ## Block 0
 
 #### Intro Economics
-- [ ] [Khan Microecon](https://www.khanacademy.org/economics-finance-domain/microeconomics)
-- [ ] [Khan Macroecon](https://www.khanacademy.org/economics-finance-domain/macroeconomics)
-- [ ] [Khan AP Microecon](https://www.khanacademy.org/economics-finance-domain/ap-microeconomics)
-- [ ] [Khan AP Macroecon](https://www.khanacademy.org/economics-finance-domain/ap-macroeconomics)
+- [ ] [Khan - Microecon](https://www.khanacademy.org/economics-finance-domain/microeconomics)
+- [ ] [Khan - Macroecon](https://www.khanacademy.org/economics-finance-domain/macroeconomics)
+- [ ] [Khan - AP Microecon](https://www.khanacademy.org/economics-finance-domain/ap-microeconomics)
+- [ ] [Khan - AP Macroecon](https://www.khanacademy.org/economics-finance-domain/ap-macroeconomics)
 
 #### Intro Finance and Capital Markets
-- [ ] [Khan Finance and Capital Markets](https://www.khanacademy.org/economics-finance-domain/core-finance)
+- [ ] [Khan - Finance and Capital Markets](https://www.khanacademy.org/economics-finance-domain/core-finance)
 
 
 ## Block 1
 
 #### Cryptography
-* [Khan Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
-* [Cryptography I](https://www.coursera.org/learn/crypto)
-* [Cryptography II](https://www.coursera.org/learn/crypto2)
+* [Khan - Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
+* [Coursera / Stanford Uni - Cryptography I](https://www.coursera.org/learn/crypto)
+* [Coursera / Stanford Uni - Cryptography II](https://www.coursera.org/learn/crypto2)
+* [Coursera / Uni Colorado - Introduction to Applied Cryptography](https://www.coursera.org/specializations/introduction-applied-cryptography)
 
 *Supplementary Resources*
 * https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy
@@ -41,7 +42,7 @@ https://github.com/desicochrane/data-science-masters
 * https://www.udacity.com/course/applied-cryptography--cs387
 
 #### Cryptocurrency and Bitcoin
-* [Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
+* [Coursera / Princeton Uni - Bitcoin and Cryptocurrencies](https://www.coursera.org/learn/cryptocurrency)
 
 ## Block 2
 
