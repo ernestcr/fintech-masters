@@ -35,6 +35,7 @@ https://github.com/desicochrane/data-science-masters
 * [Coursera / Stanford Uni - Cryptography II](https://www.coursera.org/learn/crypto2)
 * [Coursera / Uni Colorado - Introduction to Applied Cryptography](https://www.coursera.org/specializations/introduction-applied-cryptography)
 * [Coursera / Uni Colorado - Applied Cryptography Specialization](https://www.coursera.org/specializations/applied-crypto)
+* https://www.coursera.org/specializations/computer-network-security
 
 *Supplementary Resources*
 * https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy
