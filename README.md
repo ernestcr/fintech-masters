@@ -33,7 +33,15 @@ https://github.com/desicochrane/data-science-masters
 * [Khan - Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
 * [Coursera / Stanford Uni - Cryptography I](https://www.coursera.org/learn/crypto)
 * [Coursera / Stanford Uni - Cryptography II](https://www.coursera.org/learn/crypto2)
-* [Coursera / Uni Colorado - Introduction to Applied Cryptography](https://www.coursera.org/specializations/introduction-applied-cryptography)
+
+
+[Coursera / Uni Colorado - Introduction to Applied Cryptography](https://www.coursera.org/specializations/introduction-applied-cryptography)
+
+- [X] [Classical Cryptosystems and Core Concepts](https://www.coursera.org/learn/classical-cryptosystems)
+- [ ] [Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography)
+- [ ] [Symmetric Cryptography](https://www.coursera.org/learn/symmetric-crypto)
+- [ ] [Asymmetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto)
+
 * [Coursera / Uni Colorado - Applied Cryptography Specialization](https://www.coursera.org/specializations/applied-crypto)
 * https://www.coursera.org/specializations/computer-network-security
 
