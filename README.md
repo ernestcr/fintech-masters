@@ -48,7 +48,7 @@ divisibility, bezouts identity, modular arithmetic, eulers totient theorem, ferm
 [Coursera / Uni Colorado - Introduction to Applied Cryptography](https://www.coursera.org/specializations/introduction-applied-cryptography)
 
 - [X] [Classical Cryptosystems and Core Concepts](https://www.coursera.org/learn/classical-cryptosystems)
-- [ ] [Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography)
+- [X] [Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography)
 - [ ] [Symmetric Cryptography](https://www.coursera.org/learn/symmetric-crypto)
 - [ ] [Asymmetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto)
 
