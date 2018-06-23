@@ -70,6 +70,8 @@ todo
 
 ## Block N
 
+* https://www.coursera.org/specializations/blockchain
+* https://www.coursera.org/specializations/machine-learning-reinforcement-finance
 
 * [Introduction to Finance: Valuation and Investing Specialization](https://www.coursera.org/specializations/valuation-investment)
 * [Investment and Portfolio Management Specialization](https://www.coursera.org/specializations/investment-portolio-management)
