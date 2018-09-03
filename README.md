@@ -54,6 +54,7 @@ todo
 * https://www.coursera.org/specializations/computer-network-security
 
 *Supplementary Resources*
+* https://www.intensecrypto.org/public/
 * https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy
 * https://www.youtube.com/playlist?list=PL1xkDS1G9As7E_fPaLaFchq1a27I9a5tO
 * https://www.udacity.com/course/applied-cryptography--cs387
